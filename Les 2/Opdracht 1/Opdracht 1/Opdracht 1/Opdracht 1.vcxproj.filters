@@ -18,12 +18,36 @@
     <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Muntstuk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vijftigcent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Eeneuro.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Koffiemuntje.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Opdracht 1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Muntstuk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vijftigcent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Eeneuro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Koffiemuntje.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

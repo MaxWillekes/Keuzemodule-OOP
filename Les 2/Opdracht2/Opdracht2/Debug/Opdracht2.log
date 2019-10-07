@@ -1,0 +1,4 @@
+﻿  Opdracht2.cpp
+c:\users\max willekes\desktop\school\hku\jaar 2\keuzemodules\oop\les 2\opdracht2\opdracht2\opdracht2.cpp(23): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\max willekes\desktop\school\hku\jaar 2\keuzemodules\oop\les 2\opdracht2\opdracht2\opdracht2.cpp(24): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Opdracht2.vcxproj -> C:\Users\Max Willekes\Desktop\School\HKU\Jaar 2\Keuzemodules\OOP\Les 2\Opdracht2\Debug\Opdracht2.exe
