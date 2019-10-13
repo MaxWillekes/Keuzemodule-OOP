@@ -10,13 +10,14 @@
 
 using namespace std;
 
-float main() {
+int main() {
 
 	float ingeworpenMunt;
 
 	Koffieautomaat koffieautomaat = Koffieautomaat();
 	
-	//
+	cout << "Inwerp opties zijn : 0.5  1  1.5" << endl;
+	cout << "Ingeworpen waarde : " << endl;
 	cin >> ingeworpenMunt;
 
 	if (ingeworpenMunt == 0 || ingeworpenMunt == NULL) { 
